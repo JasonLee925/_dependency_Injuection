@@ -1,0 +1,11 @@
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\obj\Debug\netcoreapp3.1\ex_dependency_Injuection.csprojAssemblyReference.cache
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\obj\Debug\netcoreapp3.1\ex_dependency_Injuection.AssemblyInfoInputs.cache
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\obj\Debug\netcoreapp3.1\ex_dependency_Injuection.AssemblyInfo.cs
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.exe
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.deps.json
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.runtimeconfig.json
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.runtimeconfig.dev.json
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.dll
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\bin\Debug\netcoreapp3.1\ex_dependency_Injuection.pdb
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\obj\Debug\netcoreapp3.1\ex_dependency_Injuection.dll
+C:\Users\JasonLee\Desktop\C sharp\ex_dependency_Injuection\ex_dependency_Injuection\obj\Debug\netcoreapp3.1\ex_dependency_Injuection.pdb
